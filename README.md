@@ -74,9 +74,11 @@
     ```
 
 3.  **Bot Ayarları:**
-    *🥇 `.env.example` dosyası `.env` şeklinde düzeltin.
-    *🥈 `.env` dosyası içindeki `BOT_TOKEN=TOKEN_BURAYA` Telegram `Bot Father` üzerinden aldığınız bot tokenini girin.
-    *🥉 `.env` dosyası içindeki `ADMIN_ID=CHAT_ID_BURAYA` kendi chat id'nizi buraya kaydedin.
+    ```bash
+    🥇 `.env.example` dosyası `.env` şeklinde düzeltin.
+    🥈 `.env` dosyası içindeki `BOT_TOKEN=TOKEN_BURAYA` Telegram `Bot Father` üzerinden aldığınız bot tokenini girin.
+    🥉 `.env` dosyası içindeki `ADMIN_ID=CHAT_ID_BURAYA` kendi chat id'nizi buraya kaydedin.
+    ```
 
 4.  **Botu Başlatın:**
     ```bash
