@@ -7,7 +7,7 @@ const sqlite3 = require('sqlite3');
 const { open } = require('sqlite');
 
 // --- AYARLAR ---
-const GITHUB_URL = "https://github.com/KULLANICI_ADIN/PROJE_ADIN"; 
+const GITHUB_URL = "https://github.com/yazi-dev/ramazan-vakit-telegram-bot"; 
 const BOT_TOKEN = process.env.BOT_TOKEN;
 const ADMIN_ID = parseInt(process.env.ADMIN_ID);
 const TIMEZONE = 'Europe/Istanbul';
